@@ -1,2 +1,4 @@
 # tripping-wookie
-Accessing blocked sites 
+About me
+
+I love :coffee: and :computer: 
